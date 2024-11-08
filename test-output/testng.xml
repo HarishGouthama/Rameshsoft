@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "">
+<test name = "">
+<classes>
+	<class name = "com.rameshsoft.seleniumcore.Hardwork1"></class>
+	<class name = "com.rameshsoft.seleniumcore.Hardwork2"></class>
+</classes>
+</test>
+</suite>
